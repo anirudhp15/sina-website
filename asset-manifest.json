@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/sina-website/static/css/main.cb447b32.css",
-    "main.js": "/sina-website/static/js/main.395fdc3a.js",
+    "main.css": "/sina-website/static/css/main.d9c7c9e2.css",
+    "main.js": "/sina-website/static/js/main.3cad29d3.js",
     "static/media/whatwelost.jpg": "/sina-website/static/media/whatwelost.dae6e173e6c7eba3ab2d.jpg",
     "static/media/23.JPG": "/sina-website/static/media/23.2355b03a2f096a25b59f.JPG",
     "static/media/21.JPG": "/sina-website/static/media/21.4fcac03da3b2261805ce.JPG",
@@ -18,11 +18,11 @@
     "static/media/readmymind.jpg": "/sina-website/static/media/readmymind.3229aa01d89c8bef7a65.jpg",
     "static/media/logo.jpg": "/sina-website/static/media/logo.f34425f5a0a6e7ba3424.jpg",
     "index.html": "/sina-website/index.html",
-    "main.cb447b32.css.map": "/sina-website/static/css/main.cb447b32.css.map",
-    "main.395fdc3a.js.map": "/sina-website/static/js/main.395fdc3a.js.map"
+    "main.d9c7c9e2.css.map": "/sina-website/static/css/main.d9c7c9e2.css.map",
+    "main.3cad29d3.js.map": "/sina-website/static/js/main.3cad29d3.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb447b32.css",
-    "static/js/main.395fdc3a.js"
+    "static/css/main.d9c7c9e2.css",
+    "static/js/main.3cad29d3.js"
   ]
 }
