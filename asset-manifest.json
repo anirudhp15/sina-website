@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/sina-website/static/css/main.d9c7c9e2.css",
-    "main.js": "/sina-website/static/js/main.96d4b605.js",
+    "main.css": "/sina-website/static/css/main.0ee7949c.css",
+    "main.js": "/sina-website/static/js/main.4d35e4ab.js",
     "static/media/whatwelost.jpg": "/sina-website/static/media/whatwelost.dae6e173e6c7eba3ab2d.jpg",
     "static/media/23.JPG": "/sina-website/static/media/23.2355b03a2f096a25b59f.JPG",
     "static/media/21.JPG": "/sina-website/static/media/21.4fcac03da3b2261805ce.JPG",
@@ -15,14 +15,15 @@
     "static/media/13.JPG": "/sina-website/static/media/13.8977a05d74c6e6909cf2.JPG",
     "static/media/22.JPG": "/sina-website/static/media/22.8f72f96bb290b26df6d8.JPG",
     "static/media/theswitch.jpg": "/sina-website/static/media/theswitch.e74f0ae16c9513acacf3.jpg",
+    "static/media/comingsoon2.jpg": "/sina-website/static/media/comingsoon2.579501ddd0dc9551e4a2.jpg",
     "static/media/readmymind.jpg": "/sina-website/static/media/readmymind.3229aa01d89c8bef7a65.jpg",
     "static/media/logo.jpg": "/sina-website/static/media/logo.f34425f5a0a6e7ba3424.jpg",
     "index.html": "/sina-website/index.html",
-    "main.d9c7c9e2.css.map": "/sina-website/static/css/main.d9c7c9e2.css.map",
-    "main.96d4b605.js.map": "/sina-website/static/js/main.96d4b605.js.map"
+    "main.0ee7949c.css.map": "/sina-website/static/css/main.0ee7949c.css.map",
+    "main.4d35e4ab.js.map": "/sina-website/static/js/main.4d35e4ab.js.map"
   },
   "entrypoints": [
-    "static/css/main.d9c7c9e2.css",
-    "static/js/main.96d4b605.js"
+    "static/css/main.0ee7949c.css",
+    "static/js/main.4d35e4ab.js"
   ]
 }
