@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/sina-website/static/css/main.cb447b32.css",
+    "main.js": "/sina-website/static/js/main.395fdc3a.js",
+    "static/media/whatwelost.jpg": "/sina-website/static/media/whatwelost.dae6e173e6c7eba3ab2d.jpg",
+    "static/media/23.JPG": "/sina-website/static/media/23.2355b03a2f096a25b59f.JPG",
+    "static/media/21.JPG": "/sina-website/static/media/21.4fcac03da3b2261805ce.JPG",
+    "static/media/nowornever.jpg": "/sina-website/static/media/nowornever.4b8df984936542910640.jpg",
+    "static/media/hero.JPG": "/sina-website/static/media/hero.833a21dbd0c46a2f2ff7.JPG",
+    "static/media/12.JPG": "/sina-website/static/media/12.6ccff2bc6699027bd924.JPG",
+    "static/media/31.JPG": "/sina-website/static/media/31.aff080d1fcec11e673cd.JPG",
+    "static/media/32.JPG": "/sina-website/static/media/32.ca3f778eb9003cd6fe14.JPG",
+    "static/media/11.JPG": "/sina-website/static/media/11.5244b24969335e94f471.JPG",
+    "static/media/33.JPG": "/sina-website/static/media/33.881645841cf7c490c443.JPG",
+    "static/media/13.JPG": "/sina-website/static/media/13.8977a05d74c6e6909cf2.JPG",
+    "static/media/22.JPG": "/sina-website/static/media/22.8f72f96bb290b26df6d8.JPG",
+    "static/media/theswitch.jpg": "/sina-website/static/media/theswitch.e74f0ae16c9513acacf3.jpg",
+    "static/media/readmymind.jpg": "/sina-website/static/media/readmymind.3229aa01d89c8bef7a65.jpg",
+    "static/media/logo.jpg": "/sina-website/static/media/logo.f34425f5a0a6e7ba3424.jpg",
+    "index.html": "/sina-website/index.html",
+    "main.cb447b32.css.map": "/sina-website/static/css/main.cb447b32.css.map",
+    "main.395fdc3a.js.map": "/sina-website/static/js/main.395fdc3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb447b32.css",
+    "static/js/main.395fdc3a.js"
+  ]
+}
