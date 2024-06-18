@@ -32,7 +32,7 @@ const ComingSoon = () => {
       </div>
       <div className="relative z-10 flex flex-col items-center justify-center p-5 text-center text-white bg-black bg-opacity-0 rounded-lg">
         <p
-          className={`mb-6 text-md md:text-xl hero-subtitle ${
+          className={`mb-6 text-lg md:text-xl hero-subtitle ${
             animate ? "fadeIn" : ""
           }`}
         >
