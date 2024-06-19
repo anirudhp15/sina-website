@@ -36,7 +36,7 @@ const ComingSoon = () => {
             animate ? "fadeIn" : ""
           }`}
         >
-          More Coming Soon.
+          More Coming Soon...
         </p>
       </div>
     </div>
